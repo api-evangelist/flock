@@ -42,7 +42,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-10-06'
 tags:
 - Company
 - Insurance
@@ -64,6 +64,8 @@ tags_raw:
 - Financial-Services
 apis: []
 common:
+- url: https://flockcover.com/news
+  type: Blog
 - type: Website
   url: https://www.flockcover.com/
 - type: GitHubOrganization
